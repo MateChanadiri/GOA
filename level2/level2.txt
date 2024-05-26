@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 daniel abramiani
 gabriel gabrichidze
 deme azmaifarashvili
@@ -5,3 +6,12 @@ davit beraia
 ilia qsovreli
 luka tatuashvili
 aleqsandre winwradze
+=======
+daniel abramiani
+gabriel gabrichidze
+deme azmaifarashvili
+davit beraia
+ilia qsovreli
+luka tatuashvili
+aleqsandre winwradze
+>>>>>>> cbbb84e9fa5b00bc6b7ac80c546b1cc392eb39df
