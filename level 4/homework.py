@@ -81,7 +81,7 @@ goto(-30,-150)
 pendown()
 left(40)
 forward(50)
-exitonclick
+exitonclick()
 
 
 
