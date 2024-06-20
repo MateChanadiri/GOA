@@ -26,4 +26,3 @@ cost = int(input("this item costs: "))
 quantity = int(input("how many do you want to buy: "))
 total_cost = int(cost * quantity)
 input(f"the total cost will be {total_cost}")
-
