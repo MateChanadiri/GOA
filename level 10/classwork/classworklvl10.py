@@ -36,3 +36,12 @@ counter = 101
 while counter > 0:
     print(counter)
     counter = counter - 1
+
+i = 300
+while i > 0:
+  print(i)
+  i = i - 1
+
+counter = 0
+while counter < 4:
+  print(counter)
