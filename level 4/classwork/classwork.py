@@ -14,6 +14,6 @@ print(balance - discount)
 
 salary = 70000
 print(salary) 
-age -> 32
+age = 32
 role = "Product Manager"
 print(role)
