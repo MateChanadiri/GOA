@@ -1,4 +1,4 @@
-#for i in range გამოიყენე პროექტში def-ები
+
 
 
 def Hello_world():
